@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Image.png" alt="Mall Customer Segmentation Banner" width="700"/>
+  <img src="Image.png" alt="Mall Customer Segmentation Banner" width="500"/>
 </p>
 
 # 🛍️ Mall Customer Segmentation using Unsupervised Learning
