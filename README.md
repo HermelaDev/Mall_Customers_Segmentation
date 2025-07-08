@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/cover.png" alt="Mall Customer Segmentation Banner" width="700"/>
+</p>
+
 # 🛍️ Mall Customer Segmentation using Unsupervised Learning
 
 This project applies **unsupervised machine learning techniques** to the [Mall Customers dataset](https://www.kaggle.com/datasets/abdallahwagih/mall-customers-segmentation) in order to segment customers based on their purchasing behavior. By using clustering and dimensionality reduction, we aim to uncover patterns in customer demographics and spending habits that can be useful for marketing and business strategy.
